@@ -15,6 +15,10 @@ cmake-build-*/
 /.cache/
 /_skbuild/
 
+#ignore out file
+out*/
+/build/
+
 # Meta data of macOS's Finder.app
 .DS_Store
 
